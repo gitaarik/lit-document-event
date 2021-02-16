@@ -26,10 +26,9 @@ the component, so you can easily bind to it with lit-html (with the
 the listener will be removed.
 
 
-## Demo app
+## Docs
 
-To see it working, check out the
-[demo app](https://gitaarik.github.io/lit-document-event/build/).
+For more info, [check the docs](https://gitaarik.github.io/lit-document-event/build/).
 
 
 ## Also see
