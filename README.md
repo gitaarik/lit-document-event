@@ -29,7 +29,7 @@ the listener will be removed.
 ## Demo app
 
 To see it working, check out the
-[demo app](https://gitaarik.github.io/lit-document-event/docs/build/).
+[demo app](https://gitaarik.github.io/lit-document-event/build/).
 
 
 ## Also see
